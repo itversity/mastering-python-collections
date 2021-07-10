@@ -4,8 +4,7 @@
 
 Here are the instructions to setup the repository.
 * Login into Gateway node and open terminal
-* Run command `git clone https://github.com/itversity
-/mastering-python-collections.git`
+* Run command `git clone https://github.com/itversity/mastering-python-collections.git`
 * It will create a directory by name **mastering-python-collections**. You can validate by running `ls -ltr` command.
 * You can view by checking the home directory. You should see the new folder.
 * Go into the folder using JupyterHub and see validate the README.md file.
