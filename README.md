@@ -21,6 +21,7 @@ Here are the steps with commands.
 
 ```
 git fetch # Make sure to fetch the changes from the repo to your local copy
+git pull # To get the latest changes
 git checkout -b data/amazon-bestsellers
 ```
 
