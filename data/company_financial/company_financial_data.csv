@@ -1,6 +1,6 @@
-Name,Sector,Price,Dividend,Share
+Name,Sector,Price,Dividend,EarningsPerShare
 Accenture,IT,222.89,2.33,7.92
-Apple,IT,"155,15",1.57,9.2
+Apple,IT,155.15,1.57,9.2
 Adobe Systems Inc,IT,185.16,0,3.39
 Alphabet,IT,1007.71,0,22.27
 Bank of America Corp,Finacials,29.74,1.53,1.55
